@@ -1,0 +1,696 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "news": "News & Announcements",
+    "exchange": "Exchange Rate",
+    "contact": "Contact Us",
+    "seo": "SEO Content",
+    "article": "Website Article",
+    "description": "Product Description",
+    "press": "Press Release",
+    "fraud": "Fraud Prevention",
+    "terms": "Terms and Conditions",
+    "disclosure": "Disclosure",
+    "policy": "Privacy Policy",
+    "team": "Our Team",
+    "fee": "Fee and charges",
+    "support": "Contact Support",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "company": "Company",
+    "social": "Social Media",
+    "all-rights": "All rights reserved.",
+    "address": "201, Naif Building, Sabkha Road, Deira Dubai, United Arab Emirates",
+
+    "about-description": " Alfa Exchange specializes in payment services, cash management, and global remittances with strong banking partnerships.",
+    "mission": "Misson & Vision",
+    "management": "Management",
+    "what-we-do": "What We Do",
+    "profile": "Corprate Profile",
+
+    "service-description": "The company primarily specializes in payment services and cash management.",
+    "forign": "Forign Exchange",
+    "remit": "Home Remittance",
+"commercial": "Commercial Remittance",
+    "kff": "Key Fact Statement - FCY",
+    "kft": "Key Fact Statement - Remittance",
+
+    "contact-description": " Contact us for inquiries, support, or assistance with our payment and cash management services.",
+    "conplaints": "Complaints & Feedback",
+    "survey": "Online Survey",
+    "amf": "AML/CFT Policies"
+  },
+  "home": {
+    "hero-sub": "Welcome to ",
+    "hero-main": "Alfa Exchange",
+    "hero-description": "Alfa Exchange is a renowned established firm in Dubai – UAE. The Company established and started function in the year 2008-9. The Company revamped in the year 2014 with the induction of the new management team and further improved its relationship with the local and overseas Banking Institutions. The Company offers the products of Foreign Exchange and Remittances to its Retail, Semi-wholesale customers. The Company over the years has established its name as the front line choice of the solid niche customers base. The Company further enjoys the high turnover though its available products, while it continues to achieve excellence through product penetration. The Company has the services of academically qualified and professionally experienced professionals with Banking, Foreign Exchange and Financial Management backgrounds",
+    "btn-text-one": "Explore Our Services",
+    "btn-text-two": "Enquire Now ",
+    "hours": "Opening Hours ",
+    "location": "Our Location",
+    "phone": "Telephone ",
+    "welcome": "ALFA EXCHANGE is leading Exchange Company In UAE.",
+    "welcome-description": "Alfa Exchange is one of the pioneers to start Currency Exchange business in the country. The company is reckoned as formidable player in the Forex Business in the UAE endeavoured to provide the best services and value for money services to clients. With huge turnovers we are one of the leaders in banknotes and payments services in this country.",
+    "front-line": "Why the front-line Choice of the Individual and Legal Customers",
+    "front-line-description-one": "Alfa Exchange works professionally and therefore would like to maintain the highest standards of service and professionalism. The Company based on qualitative factors believes that it would continue to be the front line choice of the customers. Over the years, it has developed the niche customers base and will continue to enjoy the relationships. The them of sound relationship management is not only the transaction stage service, but the regular individual customers, and the legal customers have been in contacts.",
+    "front-line-description-two": "The visits by the customers services team and even including the technical teams visit the customers and two-way communication is normally being held. This provides additional comfort to the customers for the business. Moreover, the management interacts with the customers wherever it is necessary. The Company has provided the awareness programs to the customers, and therefore going forward it is anticipated that the Company will maintain the customers confidence and will boost it further. Our aim, the customers first, will continue to be followed in practice.",
+    "benefit": "Benefits of Choosing Alfa Exchange Services",
+    "benefit-one-title": "Alfa Exchange above par service",
+    "benefit-one-description": "Alfa Exchange trusts in customers relationship, whether it is the retail customer visits the first time for the FX transactions or the home remittances regular customers. Further, it maintains relationships with the SME customers for commercial remittances. Relationship management has been the forte of Alfa Exchange. This is developed through the exclusive customers services department (CSD), which takes into consideration all necessary regulatory steps and internally approved mechanisms to serve the customers from step one to last. Our dedicated team members fully understand the requirements of the different categories of customers. The Alfa Exchange team in the front-line customers handling and the backup supports customers services department, everyone is trained to satisfy the customers. We continue to investigate the area where the service levels can be improved. Over the years the Alfa Exchange team has achieved excellence and therefore the customers regularly visit to enjoy the best exchange, commission rates and the sound customers’ service. ",
+    "benefit-two-title": " Competent and Supportive Teams",
+    "benefit-two-description": "Alfa Exchange believes in excellence at various levels. Therefore, the front-line team has been trained to understand the retail customers’ needs. The team is regularly trained in the customers services aspects, while fully understanding the customers’ requirements. The Consumer Protection / Customer Services team specializes in the areas of customers handling, and to fully understanding the products diversities. The completion of transactions is checked on time and motion study, while over the years the service has been above par, so that there have not been any complaints of the Company though it enjoys the high turnover of the retail products. The team from Treasury and Forex Dealers provides excellent rates backed by the qualified services to complete the FX, Home Remittances and Commercial Remittance transactions. Alfa Exchange has the services of qualified and experienced officials in all major departments including the high profile, Finance, Risk Management, Compliance and Internal Audit. These areas provide solid support to the business and maintain their independence. The management of Alfa Exchange comes out from a rich banking background. The combination of Experience and Youth make it a formidable and promising team ",
+    "benefit-three-title": "Your Money Where You Want It",
+    "benefit-three-description": "Our services provide you the most secure and easy way for all your transactions across the globe. When you make transactions with us, there's nothing to worry about.",
+    "benefit-four-title": "Trusted Exchange Rates",
+    "benefit-four-description": "The Company is primarily engaged in the services of Payment Services and Cash Management – Buying and Selling",
+    "count-one": "Years Experiences",
+    "count-two": "Happy Customers",
+    "count-three": "Countries",
+    "forex": "Our Services.",
+    "forex-description": "Alfa Exchange is leading Exchange Company In UAE. The company is one of the pioneers to start Currency Exchange business in the country.",
+    "forign": "Foreign Exchange",
+    "forign-description": "The Company offers the Foreign Exchange business to its retail, semi-wholesale customers. The Company offers the best exchange rates backed by the promised first-class customer’s service. It follows the defined rules of the Consumer Protection of the Central Bank of UAE, while it has above par customers conduct policy for the best possible satisfaction.",
+    "remit": "Home Remittance",
+    "remit-description": "The Company further offers Home Remittances to the retail remitters from the UAE. The Company has its own Banking relationships, and therefore the transactions are being carried out on acceptable exchange rates, and speed remittances. The major emerging markets places are covered through the home remittances. The Company enjoys relationships with the niche retail customers, and it is continuously looking for additional retail customers.",
+    "trust": "Commercial Remittances ",
+    "trust-description": "The Company further offers commercial remittances business to small and medium commercial enterprises. The Company enjoyed a business relationship with the semi-leading banks of the world.",
+    "money": "Your Money, Where You Want",
+    "money-description": "Our services provide you the most secure and easy",
+    "more": "Learn more",
+    "review": "What they say our service",
+    "review-description": "Alfa Exchange is a leader in the UAE’s currency exchange. We provide secure foreign exchange, remittance, and cash management services, ensuring reliability and customer satisfaction.",
+    "blog": "Lastest From Our Blog",
+    "view-more": "View More",
+    "read-more": "Read More",
+    "read-less": "Read Less"
+  },
+  "mission": {
+    "title": "Empowering Growth, Enriching Futures",
+    "sub-one": "“TO MAKE ALFA EXCHANGE A FORMIDABLE ORGANIZATION WHILE MAINTAINING A COORDINATED BALANCE IN ITS ALL STRATEGIC STAKEHOLDERS”",
+    "sub-two": "“SERVING THE ECONOMY/FINANCIAL SYSTEM/RETAIL CUSTOMERS OF UAE WITH COMMERCIAL VIABILITY. TO DEVELOP AND GROOM SINCERE AND LOYAL EMPLOYEES WITH THE AIM OF MAKING THEM GOOD HUMAN”",
+    "description": "ALFA EXCHANGE has very clear vision and mission for the Company. It is operating with the niche market and clientele with the Vision to produce competent professionals to be turned into quality Humans. With the Mission of becoming one of the large Companies in the areas of Foreign Exchange, Cash Management, Commercial and Home Remittances, the Company is not only operating for a better bottom line, but it works towards support in a better financial system of the Country and to help boost the economy of UAE and Globe. The loyal and valued established clientele will remain the basic motive of the Company. Therefore both the Vision on long term basis and Mission with the recurring nature, the Company is expected to achieve both the quantitative and qualitative goals."
+  },
+  "management": {
+    "management": "Management",
+    "title": "Driven by Expertise, Guided by Experience",
+    "description-one": "ALFA EXCHANGE functions under a professional and qualified management. The Company works through the Management Committee consists of senior members. The committee is a strategic and decision making body which plans on the medium to long term. The Company is headed by the General Manager, a qualified by profession ex banker. The Management Committee members come from the rich banking and financial management background from diversified fields including Foreign Exchange / Treasury, Corporate Credit & Marketing, Operations and Retail Banking. The combined experience of the members is more than fifty years, which provides the Company a very formidable and sound platform to work.",
+    "description-two": "The Company functional activities under the different Business and Support Divisions run through the qualified managers. All Managers of the Company are qualified Business and Commerce Graduates having very decent experience. The Company has specialized areas like, Treasury, Operations, Customers Service / Marketing, Compliance and Remittances. The Finance/Accounts/Audit takes care of all post operative activities. The Company works on highly professional grounds and the senior managers play a pivotal role in the controls and growth of the Company. All Managers are supported by the teams and the authority triggers down to make the team competent, effective and efficient.",
+    "address": "To know more about a particular Business Division, kindly call on our numbers 00971 4 2233302 – 2340777 "
+  },
+  "what-we-do": {
+    "what-we-do": "What We Do",
+    "section-one-title": "Seamless Solutions for Global Transactions",
+    "section-one-description": "The Company is primarily engaged in the services of Payment Services and Cash Management – Buying and Selling of FCY / LCY. The Company has come a long way and presently is enjoying a very high turnover.",
+    "section-one-list-title": "The products being offered by the Company can be summarized briefly as follows:",
+    "section-one-list-one": "Managing customers needs through varied products offering.",
+    "section-one-list-two": "Foreign Exchange Buying and Selling",
+    "section-one-list-three": "Commercial Remittances for Mid Size Traders with the objective of a medium scale transaction",
+    "section-one-list-four": "Home Remittances in all major parts of the world through well defined relationships with local banks primarily in the emerging markets.",
+
+    "section-two-title": "Institutional Relationships",
+    "section-two-description-one": "ALFA EXCHANGE has been maintaining very formidable and strong relationship with leading Financial Institutions and Banks throughout the world. These relationships have given the Company a very solid foundation and platform to serve the customers in major currencies and major centers.",
+    "section-two-description-two": "The Company has developed the relationships on sound Management, Strong Systems, Steady Operational Methodologies and Continuous Review of Compliance/Due Diligence Policies. The Company has the team of qualified first line managers, who have been interacting with the Retail / Corporate Customers and bridging the gap between the Company Customers and Institutions and thus providing an excellent support. This over the years has developed a solid background of the Company with the Financial Institutions which is based on TRUST, CONFIDENCE, MUTUAL INTEREST, COMMITMENT AND OPERATIONAL HARMONY. These relationships are reviewed on regular basis from all aspects and the gaps are addressed. Thus the relationships are expected to gain strengths in the coming years"
+  },
+  "corporate-profile": {
+    "corporate-profile": "Corporate Profile",
+    "section-one-title": "Members of Management",
+    "secton-one-content-one-title": "Abdelaziz Dawood Mohamed Tahir Almaazmi- Partner",
+    "secton-one-content-one-description": "Abdelaziz Dawood is an Emirati MBA – BA (Economics) having experience of SME Management at the Ministry of Economic Affairs – SME Division. He is the partner at the Alfa Exchange since 2022. (He was the sole proprietor but with the change of the legal structure of the firm he became the partner). He is involved in the strategic and policy matter as the member of the Management Committee.",
+    "secton-one-content-two-title": "Mr. Iqbal Mustafa – Partner/General Manager",
+    "secton-one-content-two-description": "Mr. Iqbal Mustafa, is the Partner / General Manager of the Company. Mr. Mustafa is a former banker having worked in the Banking Industry for twenty-seven years in the leading Banking institutions at major financial centres of the world.  Mr. Mustafa holds M.Com – MBA and professional banking qualifications. He runs the affairs of the Company since 2015 as GM, while has been associated with the firm since 2013. A very experienced professional he held key positions and the members of the decision making committees.",
+    "secton-one-content-three-title": "Mr. Saad Ali-– Partner/Head of Risk Management",
+    "secton-one-content-three-description": "Mr. Saad Ali is an ACA from England & Wales having completed training program from PWC – London UK. He holds the position of the Risk Manager, while he is a partner and therefore also is the member of the Management Committee. With overall fifteen years’ experience he plays very vital role in the sustainability and growth of the Company.",
+
+    "section-two-title": "The Functional Managers of Alfa Exchange.",
+    "secton-two-content-one-title": "Mr. Ismail Baig ",
+    "secton-two-content-one-description": "Head of Accounts and Finance.",
+    "secton-two-content-two-title": "Mr. Usama Saleem ",
+    "secton-two-content-two-description": "Head of Customer Services and Marketing.",
+    "secton-two-content-three-title": "Ms.  Rashika Daniel ",
+    "secton-two-content-three-description": "Head of Compliance.",
+    "secton-two-content-four-title": "Mr. Zaheer Ahmed",
+    "secton-two-content-four-description": "Head of Internal Audit.",
+    "secton-two-content-five-title": "Mr. Kazi Mobarak Hosan",
+    "secton-two-content-five-description": "Head of Treasury.",
+    "secton-two-content-six-title": "Mr. Shoaib Saleem",
+    "secton-two-content-six-description": "Head of Remittances.",
+    "secton-two-content-seven-title": "Mr. Mansoor Ali",
+    "secton-two-content-seven-description": "Head of IT.",
+    "secton-two-content-eight-title": "Ms Beena Johnson",
+    "secton-two-content-eight-description": "Head of H R and Assistant to General Manager."
+  },
+  "forign-exchange": {
+    "forign-exchange": "Foreign Exchange",
+    "title": "Global Banknote Solutions with Competitive Rates",
+    "description": "The Company offers the Foreign Exchange business to its retail, semi-wholesale customers. The Company offers the best exchange rates backed by the promised first-class customer’s service. It follows the defined rules of the Consumer Protection of the Central Bank of UAE, while it has above par customers conduct policy for the best possible satisfaction."
+  },
+  "home-remittance": {
+    "home-remittance": "Home Remittance",
+    "title": "REMITTANCES – COMMERCIAL & HOME",
+    "description": "The Company further offers Home Remittances to the retail remitters from the UAE. The Company has its own Banking relationships, and therefore the transactions are being carried out on acceptable exchange rates, and speed remittances. The major emerging markets places are covered through the home remittances. The Company enjoys relationships with the niche retail customers, and it is continuously looking for additional retail customers"
+  },
+  "commercial-remittance": {
+    "com-remittance": "Commercial Remittance",
+    "title": "Commercial Remittance",
+    "description": "The Company further offers commercial remittances business to small and medium commercial enterprises. The Company enjoyed a business relationship with the semi-leading banks of the world. This product is primarily for the lower commercial segments, and with the first-class service and excellent arrangement, the Company has been the choice of many commercial entities. (The product is being offered whenever the local and overseas banking arrangements are in place)"
+  },
+  "complaints": {
+    "complaints": "Complaints and Feedback",
+    "content-one-title": "How do I make a complaint?",
+    "content-one-description": "The easiest way to make a complaint is by email us at info@alfaexchange.com or by visiting our branch. If you’d prefer, you can contact us another way instead.",
+    "content-two-title": "What happens next?",
+    "content-two-description": "Once we’ve received your complaint, we’ll let you know we’re looking into your complaint within 2 working days. We’ll also give you a complaint reference number so we can quickly find your details in future. We’ll fully investigate all the issues you’ve raised and try to resolve them as quickly as possible by speaking with you or writing to you. And we’ll keep you updated throughout the process (including giving you approximate timescales for any additional updates).",
+    "content-three-title": "What if i’m still not happy?",
+    "content-three-description": "If you are unhappy with the response you’ve received, you can escalate your complaint to our Customer Service Department, who will look into the matter further for you. you can also contact our Customer Service Department if you haven’t received a response to your complaint as quickly as we said you would.",
+    "content-four-title": "Can I escalate my complaint further?",
+    "content-four-description": "In the event you are not satisfied with our Customer Service Department’s response you have the right to refer your complaint to SANADAK, UAE (an independent financial and insurance ombudsman unit)  using any of the following channels. You can also contact the Sanadak, if we have not accepted your complaint nor provided you with a final response to your complaint within 30 complete calendar days of receipt, or if you are not satisfied with our response",
+    "website": "Website: www.sanadak.gov.aewww.sanadak.gov.ae This link will open in a new window",
+    "call": "Call Center: 800SANADAK (800 72 623 25)",
+    "location-title": "You can find Sanadak branch at the following location:",
+    "branch": "Sanadak Branch : Abu Dhabi",
+    "location-title-two":"Location",
+    "location": "SANADAK Unit – Emirates Institute of Finance Building – Ground Floor – Sultan Bin Zayed The First Street – Abu Dhabi",
+    "hours-title": "Office hours",
+    "houres-one": "Monday to Thursday 8:30 AM to 3:30 PM",
+    "houres-two": "Friday 8:30 AM to 11:30 AM",
+    "email-title": "By email",
+    "email": "csd@alfaexchange.com",
+    "phone-title": "By Phone Number",
+    "phone": "+971 4 2286231",
+    "post-title": "By post",
+    "post-title-two":"Customer Service Department",
+    "post": "Alfa Exchange POB: 116399, Unit No: 3, Naif Building,Deira, Dubai, UAE.",
+    "post-description": "Once we’ve heard from you, a Customer Experience representative will contact you within 2 working days."
+  },
+  "fraud": {
+    "fraud": "Fraud Prevention",
+    "introTitle": "Fraud Awareness and Protection",
+    "introParagraph": "We take great care to protect our customers from any type of frauds. Knowing all kinds of fraudulent activities is a critical step toward safeguarding yourself against financial fraudsters. We would advise you not to respond to any communication asking you to provide your personal data/bank/card information. Any such request is a Phishing activity intended to steal money from you.",
+    "zeroTolerance": "Alfa Exchange has a zero-tolerance approach to financial fraud and crimes. It is crucial for us to educate our customers on how to identify suspicious activities",
+    "commonFraudsTitle": "Most Common frauds Activities",
+    "commonFraudsIntro": "Fraud can be committed in different ways and different settings, common mediums include:",
+    "mediums": ["Email", "Social media", "Phone calls", "SMS", "WhatsApp"],
+    "protectYourselfTitle": "Protect yourself from Unauthorized/Fraud/Suspicious transactions.",
+    "reportingInfo": "If you notice any suspicious/unauthorized/fraud transaction(s), please immediately report the details to us through Alfa Exchange Customer Service number: 04-2286231. Or you can also send an e-mail at:csd@alfaexchange.com",
+    "tipsTitle": "Some tips that will help protect you against Fraud.",
+    "protectionTips": [
+      "Never send money to someone you have not met in person and confirm emergency situations are real before sending money.",
+      "Remain vigilant and do not share sensitive personal details with anyone.",
+      "Report suspicious activities to the relevant authorities immediately.",
+      "Use secure internet connections.",
+      "Confirm the credentials of the person contacting you.",
+      "Don't click on suspicious links.",
+      "Never send money to unverified sources such as online purchase, Anti-virus protection, deposit or payment on a rental property, claim lottery or prize winnings, pay taxes, donation to charity, Mystery shopping assignment, Job opportunity, Credit card or loan fee, Resolve an immigration matter."
+    ],
+    "fraudTypesTitle": "Types of Frauds:",
+    "fraudTypes": [
+      {
+        "title": "Phishing",
+        "description": "Phishing is the activity of fraudsters sending fake emails to get personal information like login credentials and account details.",
+        "whatToDoTitle": "What should you do?",
+        "whatToDo": "Phishing emails mostly have spelling and grammar mistakes. Also, they usually ask you to take immediate action. Before clicking on any link or downloading files from that mail, check the sender's mail ID and digital signature to make sure they are who they claim to be. If the mail is suspicious, take no action. If the fraudster claims to be from a certain bank, verify their identity with the bank itself."
+      },
+      {
+        "title": "Faking Identity – Impersonation",
+        "description": "The fraudsters might use voice-over-IP technology to impersonate banks and other financial institutions to trick you into giving them confidential and private information.",
+        "whatToDoTitle": "What should you do?",
+        "whatToDo": "Avoid giving details about credit cards, bank accounts and others over the phone. If the caller asks for confidential details, hang up and verify the caller's identity by contacting the bank directly. Report the number and incident to the bank."
+      },
+      {
+        "title": "ATM Scams",
+        "description": "Look out for faulty devices at ATMs. Check the keypad to see if it's a fake one placed above the real keypad. This kind of fraud is called skimming. In skimming, fraudsters use certain devices and attach them to point-of-sale terminals to steal your card details.",
+        "whatToDoTitle": "What should you do?",
+        "whatToDo": "Before using your credit or debit cards, scan the ATM. Make sure there are no cameras pointing at the keypad, and that keypads are stable and properly installed in the machine. In case you suspect faulty setups in the machine, report them to security."
+      },
+      {
+        "title": "Unauthorized purchases using cards",
+        "description": "Card cracking is the use of your debit and credit card details by fraudsters to make unauthorized purchases. Keep your credit and debit cards safe. Do not share card details with unauthorized people.",
+        "whatToDoTitle": "What should you do?",
+        "whatToDo": "Keep checking your bank account activity. If you notice an unauthorized activity on your card, immediately report it to the respective bank or financial institution. Avoid future mishaps by not sharing bank account details and card details over the phone or email."
+      },
+      {
+        "title": "SIM swap scam",
+        "description": "A phone number can be ported to a new phone containing a different SIM. This facility is usually used when your phone is lost or stolen. Fraudsters use this opportunity to trick mobile service providers to swap your phone number into a new SIM in their possession. Then, all your OTPs, messages, and calls will go to the fraudster's SIM, through which they'll extract your personal information.",
+        "whatToDoTitle": "What should you do?",
+        "whatToDo": "Look out for unauthorized security alerts and the inactivity of your SIM card. In case of a SIM swap attack, you might receive notifications from your provider that your phone number or SIM card has been activated elsewhere. If you can't send or receive calls and messages, it might also mean that your SIM is swapped. Inform your SIM card service providers immediately."
+      }
+    ],
+    "reportFraudTitle": "Report Fraud",
+    "reportFraudDescription": "In case you face fraudulent activities, report it immediately to the UAE police or at Alfa Exchange.",
+    "phoneNumber": "04-2286231",
+    "email": "csd@alfaexchange.com"
+  },
+  "terms": {
+    "pageTitle": "Terms and Conditions",
+
+    "responsibilities": {
+      "title": "Your responsibilities and obligations",
+      "items": [
+        "You will not use the Service unless you are at least 18 years old.",
+        "You will have to pay the total amount and charges in AED as indicated on the transaction.",
+        "You shall comply with these Terms and Conditions as well as with any applicable laws, rules and regulations.",
+        "In relation to your registration and use of the Service you will:",
+        "provide us with accurate, current, complete and true evidence of your identity and any additional information or evidence we may require confirming your identity.",
+        "supply us with all information and documentation we may ask in order to process your transfer and to comply with any legal requirements applicable to us or to our partners.",
+        "update all information you provide to us to keep it accurate, current, complete and true.",
+        "not use the Service for or in connection with any Prohibited Purpose or attempt to tamper, hack, modify, overload, or otherwise corrupt or circumvent the security and/or functionality of the Website and/or the Application or to infect it with any Malicious Code;",
+        "not open more than one registered account with us.",
+        "use the Service to send money only to people that you know personally or to pay for goods and services purchased from suppliers of whom you have sufficient knowledge and whose identity you verified. You acknowledge that we have no control over the suppliers or over the goods and services for which you use our Services to make payments and we have no responsibility for the quality, safety, legality, or the delivery of such goods or services to you."
+      ]
+    },
+
+    "understanding": {
+      "title": "You understand and accept that",
+      "items": [
+        "We are legally obliged to retain information about our customers and the Transactions that we process for up to 5 years after termination of our relationship with you or as may be required from time to time by applicable law or by any regulatory authorities;",
+        "All currency converted as part of the Service will be converted using our rate of exchange as communicated to you during the transaction and a FX Spread may apply. We reserve the right to make changes to our rate of exchange at any time without providing notice.",
+        "Some countries may impose minimum and maximum thresholds in relation to the amounts that can be sent through our Service.",
+        "You will be liable to us for all losses which we suffer or incur in relation to any fraud or fraudulent activity by you or any breach of the Terms and Conditions by you.",
+        "You must contact us as soon as possible if you believe or suspect that a Transaction was not executed properly or that the amount has not been received or was only partly received.",
+        "It is your responsibility to inform the Beneficiary of the information he/she will need to provide in order to collect the money you transfer through the Service (such as photographic identification, the exact amount of remittance and the Transaction Reference Number)."
+      ]
+    },
+
+    "cancellations": {
+      "title": "Cancellations and Refunds",
+      "items": [
+        "You can request for cancellations and refunds by emailing us at csd@alfaexchange.com or by visiting our branch.",
+        "Please note that cancellations and refunds would be processed at the discretion of Alfa Exchange.",
+        "Cancellations or Refunds can take up to 14 business days to be processed where accepted and this solely depends on the counterparties which are beyond our control.",
+        "Additional charges might apply for cancellations and refund requests.",
+        "The channel of refunds would be decided by Alfa Exchange depending upon the payment method you have used during the original transaction.",
+        "Alfa Exchange reserves the right to terminate its relationship with customers in the event of any violations or instruction of applicable laws and institutional policies\". Any termination of the relationship will be informed to customers in writing with consideration of AML CFT regulations of UAE.",
+        "In the event of a product or service being expired or withdrawn from Alfa Exchange, notification of such changes will be communicated to the customer with a minimum of 30 days' notice. Alfa Exchange shall categorize a customer as dormant if their identification (ID) has expired or if there has been no activity for a period not less than 365 days. Customer profiles affected by the aforementioned reasons will be reactivated upon completion of Know Your Customer (KYC) renewals.",
+        "The revocation of consent by a consumer in the future shall not impact the legality of data processed or under processing conducted based on the previously given consent. Unless explicitly stated otherwise, the consent withdrawal shall become effective within a full 30 calendar days from the consumer's request, as communicated to the Alfa Exchange."
+      ]
+    },
+
+    "privacy": {
+      "title": "Confidentiality/ Privacy",
+      "items": [
+        "As a fully regulated institution under the Supervision of the Central Bank of the UAE and with a purpose of providing the Service we are bound by the legal requirements to obtain, verify and record information about our customers. Therefore, we may request from you or consult any legal sources to obtain your personal data and required KYC information when offering the Service to you.",
+        "Your personal information will be treated and processed securely and strictly in accordance with applicable data privacy and protection laws and regulations.",
+        "Customer information will be treated as confidential, unless where it is already public knowledge or where it becomes public knowledge through no fault of our own.",
+        "We may disclose customer information if we are required to do so by law, by our financial partners in order for them to fulfil their regulatory obligations, by court order, by any statutory, legal or regulatory requirement, by the police or any other competent authorities in connection with the prevention or detection of crime or to help combat fraud, money laundering and terrorism financing. We may also report suspicious activity to appropriate competent law enforcement or government authorities.",
+        "Please refer to our Privacy Policy document available on our website www.alfaexchange.net.",
+        "Alfa Exchange expressly confines its data collection activities to lawful purposes directly associated with consumer-related functions or activities. The nature of the data being collected, and whether such collection is mandatory or voluntary, shall be communicated to and acknowledged by the consumer. When the Alfa Exchange processes the consumer's data, a comprehensive description of the data/personal data under processing shall be provided in accordance with legal requirements."
+      ]
+    },
+
+    "general": {
+      "title": "Terms and Conditions",
+      "items": [
+        "1. Please note that the Terms and Conditions are subject to periodic changes at the sole discretion of Alfa Exchange.",
+        "2. You hereby acknowledge and agree that the English language version of these Terms and Conditions is the applicable version for all languages. Any other language version we may provide is for guidance purposes only. Any dispute or claim arising out of or in connection with the present Terms and Conditions or their subject matter or formation (including non-contractual disputes or claims) will be considered in relation to the English version only.",
+        "3. By availing Alfa Exchange Products and Services, customer agrees to the waiver of cooling-off period for immediate commitment.",
+        "4. All transactions will be subject to the AML/CFT laws, regulations, standards, and policies issued by the Central Bank of UAE and other international organizations/bodies. All KYC information/documents must be provided as per requirements of local and international KYC regulations and standards we guarantee the confidentiality of all KYC information/documents submitted by the customers.",
+        "– Any of the valid and original ID's must be presented at the time of transaction processing.",
+        "– Valid ID's include Emirates ID, Passport with Valid Visa and GCC ID for GCC Nationals",
+        "5. Currencies once exchanged will be bought/sold only at our prevailing buying/selling rate.",
+        "6. Please count your money before leaving the counter. We will not be responsible for any claims whatsoever afterwards. Errors & omissions are excepted.",
+        "7. You / customers undertake that the foreign currency provided to convert has been obtained from legitimate personal / business sources.",
+        "8. Alfa Exchange or its branches accept no liability, whatsoever, for remittance delayed in any from or bank charges or fees or deductions levied or omission or funds confiscated by the beneficiary bank or correspondent bank or any government agency on any grounds.",
+        "9. The estimated time for the funds to be transferred to the beneficiary will be informed at the time of transaction. However, time taken to transfer funds can be delayed due to various reasons.",
+        "10. Any amendments or re-issuance of the remittance transaction requested by the customer for any reason will be subject to our regular charges and / or amendment charges and settlement of any rate differences, if applicable.",
+        "11. Refund against stop/cancelled transfers or any other remittance transactions returned unpaid for whatsoever reason will be made at prevailing buying rate or purchase rate whichever is lower. Refund shall be provided once the stop payment is confirmed (or) funds are received back from the correspondent back or its agent.",
+        "12. Unclaimed amount lying pending for a longer period, can only be refunded as per internal policy.",
+        "13. All refunds will be paid in UAE Dirham (AED) only.",
+        "14. For foreign remittances, there will be a backend deduction ranging between USD 40/- to USD 80/-. The charges for tracer/amendment/cancellation shall be AED 200 /- if applicable.",
+        "15. Any transaction related complaint should be lodged within a maximum period of fourteen (14) days from the date of transaction.",
+        "16. Alfa Exchange will inform customers of our latest promotions/updates via SMS/WhatsApp. if you want to opt out from this pls call 04-2286231.",
+        "17. For any further enquiries/feedbacks/complains, kindly email us on csd@alfaexchange.com or call 04-2286231. or refer to www.alfaexchange.net",
+        "18. The details of the transection mentioned in this receipt shall be considered as final and it is the responsibility of the customer to go through the same before leaving the branch and to the notice of the concerned staff if there is any error or omission in the same.",
+        "19. Alfa Exchange is indemnified from any incorrect details of beneficiary and remitter once the application is seen and signed or approved otherwise by customer. Alfa Exchange will not be responsible for any material potential changes once the remittance is executed.",
+        "20. You agree that Alfa Exchange may delay, block or refuse to process any transaction without any liability if the transaction is suspected to:",
+        "(a) breach any laws or regulations in UAE or in any other country:",
+        "(b) involve any person (natural, corporate or government) that is itself sanctioned or is connected, connected, directly or indirectly, to any person that is sanctioned under economic and trade sanctions imposed by any country; or",
+        "(c) Directly or indirectly involve the proceeds of, or be applied for the purposes of, conduct which is unlawful in any country.",
+        "21. You agree that Alfa Exchange may disclose any information concerning you it or any person named in the payment instruction to any law or enforcement regulatory agency or court where required by any such law or regulation in UAE or elsewhere and any Correspondent used to make payment for purpose pf compliance with any such law or regulation.",
+        "22. Please check & Confirm correctness of the transaction details before making the payment."
+      ]
+    },
+
+    "footer": {
+      "agreement": "By clicking 'Accept', you confirm that you have read, understood, and agree to be bound by these Terms and Conditions.",
+      "accept": "Accept",
+      "decline": "Decline"
+    }
+  },
+  "disclosure": {
+    "pageTitle": " Disclosures",
+    "pageSubtitle": "Please read this information carefully regarding our services",
+
+    "importantInformation": {
+      "title": "Important Information",
+      "items": [
+        "No cancellation of foreign currency transactions are permitted – Any currency purchased or sold by the customer can be returned or bought back only as a fresh transaction at the prevailing market rate.",
+        "Any breach of local AML/TF regulation, you / customers would be personally responsible / liable.",
+        "In the event of misrepresentation, Company will have the right to seek assistance from the authorities.",
+        "Additional fees may be levied by the correspondent bank/financial institution or entity providing financial services to the beneficiary of remittance.",
+        "Penalties and fees may be applied if there is a customer error or omission in providing incorrect or incomplete information for remittances.",
+        "The actual time to complete a transaction may differ from estimates due to increased scrutiny of transactions by the correspondent bank/financial institution or entity providing financial services to the beneficiary remittances.",
+        "Exchange rate used for the refund or money paid by the Consumer may differ from the original rate used for the transfer, and any costs which could be incurred for the cancellation caused by the Consumer.",
+        "There may be additional and significant costs charged by the receiving entities should there be Error / omissions in the remittance information provided by the consumer causing a rejection of, or delays in the transfer"
+      ]
+    },
+
+    "contactInfo": {
+      "title": "FOR ANY QUERIES, COMPLAINTS OR FEEDBACK",
+      "email": "KINDLY EMAIL US ON",
+      "or": "OR",
+      "call": "CALL ON"
+    },
+
+    "grievance": {
+      "title": "Grievance Redressal Mechanism",
+      "description": "We are committed to serve you to your satisfaction and make your experience of patronizing our services an enjoyable one. However, should you feel that our services need improvement and wish to lodge your feedback/complaint, we welcome your valuable suggestions and feedback. Our endeavour shall be to convert your complaint into a compliment. Please follow the escalation matrix as below.",
+      "levels": [
+        "In the first level, the customers can raise complaints via website (alfaexchnage.net), branch call (04-2340777) or walk-in.",
+        "In the second level, the customers can raise complaints via email to csd@alfaexchange.com or can call at CSD direct line 04-2286231.",
+        "In the third level, the customers can also send email to info@alfaexchange.com to be received by the Management."
+      ]
+    },
+
+    "acknowledge": "I Acknowledge"
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated",
+    "updateDate": "April 2025",
+    "rightsReserved": "All Rights Reserved",
+
+    "regulated": "Alfa Exchange is regulated by the Central Bank of the UAE.",
+    "fundamental": "Protecting your privacy and the confidentiality of your personal information has always been fundamental in the way we do business at Alfa Exchange.",
+    "informYou": "Our privacy policy informs you of the ways we help protect your privacy and the confidentiality of your information.",
+
+    "personalInfoTitle": "Information We Collect and Use",
+    "personalInfoDescription": "Non-public Personal Information is any data or information considered to be personal in nature and not subject to public availability. Any collection of such information by us is to provide the best form of service to you. Hereafter, we will refer to Non-public Personal Information merely as 'Information'.",
+    "personalInfoItem1": "Your personal information that you provide while registering for a product including but not limited to your name, date of birth, nationality, address, email, and phone number.",
+    "personalInfoItem2": "Information about your transactions with us, or other parties, such as card balance, payment history, parties to transactions, and card usage.",
+    "personalInfoItem3": "Information we receive from a consumer reporting agency, such as verification of your identity and credit worthiness.",
+    "personalInfoItem4": "We collect this information to better deliver quality products and services to you, improve your experience when browsing our website, customize your profile in our Site, and to send updates on our products, services and promotions that are tailored to your needs.",
+    "personalInfoItem5": "We may also track user behaviour on our website in aggregates, but not associated to any particular user, for our own operational use that will help us enhance design, layout and functionality of our website.",
+    "personalInfoItem6": "Cookies on the Site may be used to track returning users to better customise their user experience and site/profile appearance. A cookie is a small file or part of a file stored on a Web user's computer, created and subsequently read by a website server, and containing personal information (such as a user identification code, customised preferences, or a record of pages visited).",
+
+    "securityTitle": "Our Security Measures",
+    "securityMeasure1": "We value your trust and commit ourselves to protecting the security of your information. That's why we employ reasonable security measures consistent with standard industry practice to help protect against public access to personally identifiable and account activity information collected on and used by us at this Site.",
+    "securityMeasure2": "We have security measures in place to help protect against the loss, misuse and alteration of information and its transmission through this website.",
+    "securityMeasure3": "We also implement operational, procedural, and personnel safeguards to protect your information and make sure that no one outside of Alfa Exchange has access to this information. In order to help maintain the security of your information, you should protect the confidentiality of your user name and password.",
+
+    "changesTitle": "Changes to This Privacy Policy",
+    "changesDescription": "Do note that we may from time to time, partially or entirely, change this privacy policy, and add or omit parts of it without any previous notice. Therefore, you should regularly visit our website and make sure you have read the latest privacy policy we have posted. Your continuing visit of this website will mean that you have read and agreed to the latest privacy policy.",
+
+    "inquiriesTitle": "Further Inquiries",
+    "inquiriesDescription": "If you have any questions regarding our privacy policy or the practices of this Site, you can contact us at 04-2233302 or send an email to info@alfaexchange.com."
+  },
+  "aml-policies": {
+    "main-title": "AML/CFT Policies",
+    "title": "Anti-Money Laundering and Countering The Financing of Terrorism (AML&CFT) Policies",
+    "subtitle": "Alfa Exchange's framework for preventing money laundering and terrorism financing",
+    "rightsReserved": "All Rights Reserved",
+
+    "companyPolicy": {
+      "title": "Company Policy",
+      "description": "Alfa Exchange is committed to comply with all applicable laws and regulations regarding Anti-Money Laundering and Combating Terrorism Financing. We are committed to the following AML/CFT local laws and regulations as well as international laws and standards including:",
+      "localLaws": {
+        "title": "Local Laws and Regulations",
+        "items": [
+          "Federal Law No (4) 0f 2002 regarding criminalization of money Laundering",
+          "Federal Law No (1) 0f 2004 on Combating Terrorism offences",
+          "Federal Law No (9) 0f 2014, amending some of the Federal Law No (4) 0f 2002. regarding criminalization of money Laundering and Combating Terrorism financing",
+          "Federal Law No (7) 0f 2014, on Combating Terrorism offences",
+          "The Standards for the Regulations Regarding Licensing and Monitoring of Exchange Business ('the Standards')",
+          "Federal Decree-law No. (20) of 2018 ON ANTI-MONEY LAUNDERING AND COMBATING THE FINANCING OF TERRORISM AND FINANCING OF ILLEGAL ORGANISATIONS"
+        ]
+      },
+      "internationalLaws": {
+        "title": "International Laws and Standards",
+        "items": [
+          "Financial Action Task Force (FATF) Recommendations",
+          "Middle East & North Africa Financial Action Task Force (MENAFATF)",
+          "Bank Secrecy Act",
+          "USA Patriot Act",
+          "Office of Foreign Assets Control (OFAC) of the US Department of the Treasury",
+          "United Nations Security Council (UNSC)",
+          "HM Treasury – United Kingdom"
+        ]
+      }
+    },
+
+    "declaration": {
+      "title": "Anti-Money Laundering & Combating Terrorism Financing Compliance Declaration Policy",
+      "paragraph1": "We, Alfa Exchange, are committed to operate the business with integrity, within the scope of law and with security. Alfa Exchange has implemented the comprehensive AML & CTF policies and procedure, robust Sanction screening and AML Monitoring system to detect, prevent and report any Money Laundering and Terrorist Financing associated risks.",
+      "paragraph2": "The company also engaged the Compliance Risk Management Solutions, like \"World-Check\", most comprehensive Sanctions and Politically Exposed Persons (PEP) database for sanctions and PEP screening. We use AML Solution provided Circuit Computers (LiveEx) for end-end AML Monitoring and it is also integrated with our in-house developed system for real-time sanctions screening.",
+      "paragraph3": "Alfa Exchange policies against Money Laundering and Terrorism Financing ensures highest standards of due diligence in relation to \"Know Your Customer (KYC) principles\". We consistently update our policies and systems to comply with the regulatory framework and appropriate guidelines issued by the regulator from time to time."
+    },
+
+    "complianceOfficer": {
+      "title": "Appointment of Compliance Officer",
+      "description": "The Board of Directors of Alfa Exchange has appointed a Senior Designated Compliance Officer who is responsible for coordinating & overseeing the AML/CFT framework within the organization. The appointment of the designated compliance officer is approved by the Central Bank of UAE. The company has also appointed an Alternative Compliance officer and junior Compliance officers to support the Compliance Departments functions. The Designated Compliance officer reports directly to the Board of Directors and he/she is the sole coordinator on compliance matters to Central Bank of the UAE and UAE Law Enforcement Authorities."
+    },
+
+    "kyc": {
+      "title": "Know Your Customer – KYC",
+      "paragraph1": "Alfa Exchange's policies against Money Laundering and Terrorism Financing are to ensure that all reasonable and practical measures are taken to identify customers.",
+      "paragraph2": "We have a clear identity verification procedure for customers as per local and international AML/CFT regulations.",
+      "paragraph3": "All identity documents required will be physically checked and copy of the same will be retained whenever required. Validity of the documents will be checked before acceptance."
+    },
+
+    "cdd": {
+      "title": "Customer Due Diligence (CDD)",
+      "description": "Customer Due Diligence (CDD) is a process of obtaining relevant details of the customer to ensure that they conduct the transactions in line with their personal profile / business activities; thus, ensuring source of fund and purpose are legitimate as well as to ensure that the transaction is in any way not related to Money Laundering and Terrorist Financing."
+    },
+
+    "edd": {
+      "title": "Enhanced Due Diligence (EDD)",
+      "description": "Enhanced Due Diligence is to take additional measures, besides usual Customer Due Diligence, to know more about a customer and to confirm that his/her transactions and funds are legitimate and free from any criminal link by obtaining relevant supporting documents."
+    },
+
+    "riskBasedApproach": {
+      "title": "Risk Based Approach",
+      "paragraph1": "Risk Based Approach (RBA) is one of the FATF initiatives and is followed in Alfa Exchange. Due Diligence should be risk-based, depending on the location, type of business, ownership, customer base, regulatory status and AML controls of the financial institution or correspondent banking client or business.",
+      "paragraph2": "RBA assists the financial institutions to make the best use of their limited resources to focus on matters where the money laundering risks are on the higher side.",
+      "paragraph3": "The risk-based nature of the program recognizes that not all aspects of an institution's business present the same level of risk."
+    },
+
+    "staffTraining": {
+      "title": "Staff Training",
+      "paragraph1": "Alfa Exchange has implemented the comprehensive AML & CFT training program to all employees including to the Senior Management and Board of Directors. The top management of the company strongly believes that effective AML Training will help the company to develop a good corporate governance within the Organization.",
+      "paragraph2": "Anti-Money Laundering and Combating Financing of Terrorism training is part of the compliance program and training is provided to all new staff and existing staff regarding updates in AML/CFT policies & procedures.",
+      "materials": {
+        "title": "AML/CFT Training Materials",
+        "items": [
+          "Overview of Money Laundering / Combating Financing of Terrorism",
+          "Definition of ML, TF and typologies as well as recent trends",
+          "Central Bank of UAE's AML / CFT Requirements",
+          "Risk associated with the products and services offered by the company",
+          "KYC / KYCC policies, EDD and RBA",
+          "How to identify suspicious activities and transactions",
+          "Record-keeping and reporting requirements",
+          "Familiarity with Anti-Money Laundering forms",
+          "Employees legal obligation and responsibilities"
+        ]
+      }
+    },
+
+    "suspiciousTransactions": {
+      "title": "Suspicious Transactions Reporting",
+      "description": "Alfa Exchange outlines procedures to help employees detect and report suspicious transactions. In the case of a suspected transaction, staff members should be vigilant and provide information to the Branch Compliance Officer, Branch Manager or Compliance Department for further action without jeopardizing the reputation of customers or the company."
+    },
+
+    "recordKeeping": {
+      "title": "Record-Keeping",
+      "paragraph1": "Record-Keeping ensures that the company is able to provide basic information about its customers at the request of relevant authorities. Alfa Exchange shall immediately make available any or all of its books and records upon request by Central Bank or any other regulatory agencies.",
+      "paragraph2": "All the records / documents of transfers should be kept for a minimum period of 5 years from the date of transaction.",
+      "paragraph3": "Alfa Exchange shall at all times maintain the confidentiality of information indicated in the transaction records."
+    }
+  },
+  "fees": {
+    "main-title": "Fee and charges",
+    "title": "Schedule of Fees and Amounts",
+    "description": {
+      "paragraph1": "The prices for the Service consist of FX Spread and the Fees. Our Fees might vary from time to time, but changes in the Fees will not apply to any orders in respect for which we have already sent you the Confirmation.",
+      "paragraph2": "You can pay through various options specified below:",
+      "paymentMethods": ["Bank Transfer", "Pay at any Alfa Exchange Branch"],
+      "paragraph3": "Please note that additional charges might apply based on the type of payment method selected.",
+      "paragraph4": "We are not liable for any additional fees that the banks (either on the sending or receiving side) may charge."
+    },
+    "tableHeaders": ["Service", "Currency", "Fees (inc. VAT)", "Remarks"],
+    "tableData": [
+      {
+        "service": "Home Remittances",
+        "currency": "INR",
+        "fees": "AED 10.50",
+        "remarks": ""
+      },
+      { "service": "", "currency": "BDT", "fees": "AED 10.50", "remarks": "" },
+      {
+        "service": "",
+        "currency": "PKR",
+        "fees": "AED 10.50",
+        "remarks": "For up to AED 750/-"
+      },
+      {
+        "service": "",
+        "currency": "PKR",
+        "fees": "AED 0.00",
+        "remarks": "For Above AED 750/-"
+      },
+      { "service": "", "currency": "PHP", "fees": "AED 10.50", "remarks": "" },
+      { "service": "", "currency": "NPR", "fees": "AED 12.60", "remarks": "" },
+      {
+        "service": "Commercial Remittances",
+        "currency": "USD",
+        "fees": "AED 52.50",
+        "remarks": ""
+      },
+      {
+        "service": "",
+        "currency": "USD",
+        "fees": "USD 40 To USD 80",
+        "remarks": "Intermediary Bank Charges"
+      },
+      { "service": "", "currency": "JPY", "fees": "AED 52.50", "remarks": "" },
+      {
+        "service": "",
+        "currency": "JPY",
+        "fees": "USD 40 To USD 80",
+        "remarks": "Intermediary Bank Charges"
+      },
+      { "service": "", "currency": "GBP", "fees": "AED 52.50", "remarks": "" },
+      {
+        "service": "",
+        "currency": "GBP",
+        "fees": "USD 40 To USD 80",
+        "remarks": "Intermediary Bank Charges"
+      },
+      { "service": "", "currency": "EURO", "fees": "AED 52.50", "remarks": "" },
+      {
+        "service": "",
+        "currency": "EURO",
+        "fees": "USD 40 To USD 80",
+        "remarks": "Intermediary Bank Charges"
+      },
+      { "service": "", "currency": "CAD", "fees": "AED 52.50", "remarks": "" },
+      {
+        "service": "",
+        "currency": "CAD",
+        "fees": "USD 40 To USD 80",
+        "remarks": "Intermediary Bank Charges"
+      },
+      { "service": "", "currency": "AUD", "fees": "AED 52.50", "remarks": "" },
+      {
+        "service": "",
+        "currency": "AUD",
+        "fees": "USD 40 To USD 80",
+        "remarks": "Intermediary Bank Charges"
+      },
+      {
+        "service": "Other Charges",
+        "currency": "Tracer",
+        "fees": "AED 200",
+        "remarks": ""
+      },
+      { "service": "", "currency": "Recall", "fees": "AED 200", "remarks": "" },
+      {
+        "service": "",
+        "currency": "Amendment",
+        "fees": "AED 200",
+        "remarks": ""
+      },
+      {
+        "service": "",
+        "currency": "Forein Exchange",
+        "fees": "AED 2.10",
+        "remarks": "All Currencies"
+      }
+    ]
+  },
+  "contact": {
+    "main-title":"Contact Us",
+    "name": "Customer Name",
+    "phone": "Phone Number",
+    "ref": "Transaction Ref",
+    "email": "Email ID",
+    "subject": "Complaint/objections Subject",
+    "description": "Description",
+    "placeholder": {
+      "name": "ex.Ronaldo",
+      "phone": "+971",
+      "ref": "Enter here",
+      "email": "example@gmail.com",
+      "description": "Description",
+      "subject": "Complaint"
+    },
+    "options": {
+      "complaint": "Complaint",
+      "tracking": "Tracking",
+      "remittance": "Remittance"
+    },
+    "submit": "Submit",
+    "corporateOffice1": {
+      "title": "Corporate Office",
+      "address": "201, Naif Building, Sabkha Road, Deira Dubai, United Arab Emirates\nP.O Box 116399",
+      "tel": "Tel +971 4 2233302",
+      "fax": "Fax +971 4 2233556",
+      "email": "info@alfaexchange.com"
+    },
+    "corporateOffice2": {
+      "title": "Corporate Office",
+      "address": "Unit 3, Naif Building, Sabkha Road,\nDeira Dubai, United Arab Emirates",
+      "tel": "Tel +971 4 2340777",
+      "fax": "Fax +971 4 2340770"
+    },
+    "hours": {
+      "title": "Office Hours",
+      "weekdays": "Saturday – Thursday: 09 AM – 09.30 PM",
+      "friday": "Friday: 09 AM – 01 PM. 03 PM–09 PM"
+    },
+
+    "customer": {
+      "title": "Customer Services",
+      "tel": "Tel +971 4 2286231"
+    }
+  },
+  "content":{
+    "main-title":"Online Survey",
+    "title": "We thank you for availing Alfa Exchange Services. Your valuable feedback and suggestions will help us to enhance our service.",
+    "fullName": "Your Full name",
+    "fullNamePlaceholder": "ex. Ronaldo",
+    "mobile": "Your Mobile Number",
+    "mobilePlaceholder": "+971",
+    "servicesUsedLabel": "Which service of Alfa Exchange do you use?",
+    "likedFeaturesLabel": "What do you like most about our services?",
+    "improvementAreasLabel": "Which are the areas you feel Alfa Exchange need to improve?",
+    "feedbackLabel": "Customer Feedback / Suggestions / Complaints.",
+    "feedbackPlaceholder": "Your feedback here...",
+    "submit": "Finish",
+    "required": "*",
+    "services": ["Remittance", "Foreign Exchange"],
+    "likedOptions": [
+      "Good Rates",
+      "Low Charges",
+      "Convenience",
+      "Trust",
+      "Friendly Staff / Good Service"
+    ],
+    "improvementOptions": [
+      "Service / Staff Attitude",
+      "Improve Charges and Reduce Rates",
+      "Delay in Fund Credit",
+      "Time taken to complete Transaction"
+    ]
+  },
+  "graph":{
+    "from":"From",
+    "to":"To",
+    "rate":"Exchange Rate",
+    "des":"All rates are subjected to change without prior notice. For any enquiries pls contact:"
+  }
+   
+  
+  
+}
