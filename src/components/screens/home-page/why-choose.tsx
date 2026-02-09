@@ -58,22 +58,30 @@ const WhyChoose = () => {
           <p className="text-white font-medium">{t("forex-description")}</p>
         </div>
        
-        <Accordion defaultValue="0" type="single" className="relative w-full  z-10" collapsible defaultChecked>
-          {data?.map((item,index) => {
-            return (
-              <AccordionItem  className="md:w-150 w-full mx-auto bg-white  data-[state=open]:bg-violote  data-[state=open]:text-white p-6 my-4 rounded-md" value={`${index}`}>
-                <AccordionTrigger>
-                  <div className="flex items-center gap-2">
-                    <item.img size={30}  />
-                    <h2 className="text-xl font-semibold ">{item.title}</h2>
-                  </div>
-                </AccordionTrigger>
-                <AccordionContent>
-                  <p className="mb-2 text-base">{item.description}</p>
-                </AccordionContent>
-              </AccordionItem>
-            );
-          })}
+        <Accordion
+          type="single"
+          collapsible
+          defaultValue={data?.[0]?.title}
+          className="relative w-full z-10"
+        >
+          {data?.map((item) => (
+            <AccordionItem
+              key={item.title}
+              value={item.title}
+              className="md:w-150 w-full mx-auto bg-white data-[state=open]:bg-violote data-[state=open]:text-white p-6 my-4 rounded-md"
+            >
+              <AccordionTrigger>
+                <div className="flex items-center gap-2">
+                  <item.img size={30} />
+                  <h2 className="text-xl font-semibold">{item.title}</h2>
+                </div>
+              </AccordionTrigger>
+
+              <AccordionContent>
+                <p className="mb-2 text-base">{item.description}</p>
+              </AccordionContent>
+            </AccordionItem>
+          ))}
         </Accordion>
       </div>
     </section>
